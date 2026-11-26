@@ -1,0 +1,9 @@
+#Compiled Object files and executables
+*.o
+*. obj
+*. exe
+*. out
+*. app
+
+#Build directory
+build/
