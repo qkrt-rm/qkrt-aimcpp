@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+    <name>qkrt_aimcpp</name>
+    <version>1.0</version>
+    <description>ROS CV Model</description>
+    <maintainer email="qkrt@engsoc.queensu.ca">QKRT</maintainer>
+    <license>MIT</license>
+
+    <buildtool_depend>ament_cmake</buildtool_depend>
+
+    <depend>libserial-dev</depend>
+
+    <export>
+        <build_type>ament_cmake</build_type>
+    </export>
+</package>
